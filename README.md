@@ -1,4 +1,4 @@
-# verbose-sniffle
+# merge-sort
 This project is a command line utility for sorting data (integers or strings) into a specified order and writing the result to an output file.
 
 Java version: 
